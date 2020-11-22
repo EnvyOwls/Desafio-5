@@ -7,7 +7,7 @@ El presente desafío tiene por objetivo procesar la informacion proporcionada me
 Para poder ejecutar el programa se debe.
 
 1. Descargar la carpeta **Desafio 5**. En ella se encontrara el ejecutable **predictor.jar**.
-2. Abrir el ejecutable mediante consola.
+2. Abrir la consola.
 3. Una vez abierta la consola es necesario dirigirse a la ubicación donde se descargó el proyecto. (ej. cd desktop...) 
 4. Ya en la ubicación del ejecutable, escribir el siguiente comando.
 
